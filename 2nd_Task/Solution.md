@@ -61,7 +61,7 @@
 
 ### **The specification I got**   
 
-![output](/2nd_Task/specs.png)
+![output](specs.png)
 
 ---    
 
