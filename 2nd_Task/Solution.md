@@ -51,7 +51,17 @@
 
 ---    
 
+## 🍊 Part B (Practical)   
 
+### **My given prompt:**   
+
+> Write a one-paragraph specification for a function that checks email address integrity. 
+> The specification must explicitly include the "@" character, require a valid domain extensio(like .com > or .org), 
+> and detail the clear error messages to be returned upon failure.   
+
+### **The specification I got**   
+
+![output](./specs.png)
 
 ---    
 
