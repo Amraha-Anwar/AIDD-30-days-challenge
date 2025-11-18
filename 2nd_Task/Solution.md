@@ -8,7 +8,7 @@
 
 ## 🍊 Part A (Theory)
 
-### 1. Nine Pillars Understanding 
+### **1. Nine Pillars Understanding** 
 
 **Q1: Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks better for your growth as a system architect?**  
 - Using AI agents for repetitive tasks frees up your 🧠 and saves ⏱️  
@@ -22,7 +22,7 @@
 
 
 
-### 2. Vibe Coding vs Specification-Driven Development 
+### **2. Vibe Coding vs Specification-Driven Development** 
 
 **Q1: Why does Vibe Coding usually create problems after a week?**  
 - Vibe Coding = coding with intuition, no plan   
@@ -37,7 +37,7 @@
 
 
 
-### 3. Architecture Thinking 
+### **3. Architecture Thinking** 
 
 **Q1: How does architecture-first thinking change the developer’s role in AIDD?**  
 - Shifts role from **code monkey 🐒** to **system level thinker**  
