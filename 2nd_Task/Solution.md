@@ -10,7 +10,7 @@
 
 ### **1. Nine Pillars Understanding** 
 
-**Q1: Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks better for your growth as a system architect?**  
+**1: Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks better for your growth as a system architect?**  
 - Using AI agents for repetitive tasks frees up your 🧠 and saves ⏱️  
 - As an architect, your main job is **design + architecture-first thinking + complex problem-solving**  
 - Delegating the boring boilerplate to AI = more energy for big picture awesomeness 😎  
@@ -61,7 +61,7 @@
 
 ### **The specification I got**   
 
-![output](./specs.png)
+![output](/2nd_Task/specs.png)
 
 ---    
 
