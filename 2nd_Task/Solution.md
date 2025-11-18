@@ -1,7 +1,10 @@
 # Solution 
-**By Amraha 😏**
+**By Amraha 😏**   
+
 
 ---
+
+
 
 ## 🍊 Part A (Theory)
 
@@ -15,9 +18,9 @@
 
 **Q2: How do the Nine Pillars of AIDD help a developer grow into an M-Shaped Developer?**  
 - The Nine Pillars (agents, TDD, specs, etc.) let **one dev act like a whole team**   
-- AI helps fill knowledge gaps, letting you get deep skills in **2–4 complementary domains** basically, becoming M-Shaped   
+- AI helps fill knowledge gaps, letting you get deep skills in **2–4 complementary domains** basically, becoming M-Shaped        
 
----
+
 
 ### 2. Vibe Coding vs Specification-Driven Development 
 
@@ -30,9 +33,9 @@
 **Q2: How does Specification-Driven Development (SDD) prevent this?**  
 - SDD = writing **clear, executable specs before coding**   
 - Makes sure architecture is solid from day 1 🏗️  
-- Saves your future self from endless headaches 
+- Saves your future self from endless headaches     
 
----
+
 
 ### 3. Architecture Thinking 
 
@@ -46,7 +49,13 @@
 - Layer-3 Development Agents are **autonomous tools** executing multi-step tasks from your instructions  
 - Thinking systemically = scalable, maintainable, and way cooler than line-by-line coding    
 
----
+---    
+
+
+
+---    
+
+
 
 # 🍊 Part C (MCQs)
 
