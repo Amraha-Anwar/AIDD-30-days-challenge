@@ -34,7 +34,7 @@
 ***GEMINI CLI MODEL UPDATION***
 
 
-![cli_ss](CLI.png)
+![cli_ss](model_update.png)
 
 
 ---
