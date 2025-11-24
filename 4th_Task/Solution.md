@@ -12,4 +12,4 @@
 ## ***Live Site Link***
 
 
-(will update after resolving deployment issues)
+[Study-Smart-Agent](https://study-smart-agent.vercel.app/)
