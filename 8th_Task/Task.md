@@ -12,17 +12,17 @@ Students will build a Simple Calculator using SPECKitPlus following all 5 phases
 Build a calculator using SpecKitPlus, and complete all 5 phases:   
 
 
-*1️⃣ /constitution*
-*2️⃣/specify*
-*3️⃣/plan*
-*4️⃣/tasks*
-*5️⃣/implement*   
+- 1️⃣ */constitution*   
+- 2️⃣ */specify*   
+- 3️⃣ */plan*   
+- 4️⃣ */tasks*   
+- 5️⃣ */implement*      
 
 
 ### 🔧 Commands Screenshot:
 
-Screenshot of the commands can be accessed here:
-https://drive.google.com/file/d/14gj-WWZdO8ZqE8d1kQfjvF6JbIGqsbc3/view?usp=drive_link
+Screenshot of the commands can be accessed here:   
+[Commands](https://drive.google.com/file/d/14gj-WWZdO8ZqE8d1kQfjvF6JbIGqsbc3/view?usp=drive_link)
 
 
 Tip: Click the link to view the screenshot of all commands in one place.   
